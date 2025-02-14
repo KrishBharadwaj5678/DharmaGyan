@@ -24,7 +24,7 @@ To run this project locally:
 
 2. Navigate to the project directory:
    ```bash
-   cd dharmagyan
+   cd DharmaGyan
    ```
 
 3. Install dependencies:
