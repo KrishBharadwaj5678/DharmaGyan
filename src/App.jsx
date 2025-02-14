@@ -22,7 +22,7 @@ const App = () => {
       </button>
 
       {/* Heading */}
-      <h1 className="text-3xl font-bold text-center mb-6">Sanatan Gyan</h1>
+      <h1 className="text-3xl font-bold text-center mb-6">Dharma Gyan</h1>
 
       {/* Responsive Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-full lg:w-[1200px]">
