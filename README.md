@@ -1,12 +1,12 @@
 # Dharma Gyan ✨
 
-**Dharma Gyan** is a platform dedicated to spreading the knowledge (gyan) of Indian gods 🙏✨. Through short, engaging videos 📹, users can learn about the stories, teachings, and importance of various deities in Hinduism.
+**Dharma Gyan** is a platform dedicated to spreading the knowledge (gyan) of Indian gods. Through short, engaging videos, users can learn about the stories, teachings, and importance of various deities in Hinduism.
 
 ## Features 🌟
 
-- **Educational Videos** 📖: Short videos on Indian gods, their mythology, and teachings.
-- **Dark/Light Mode** 🌙☀️: Toggle between dark and light themes for an optimal viewing experience.
-- **Downloadable Content** 📥: Users can download videos for offline viewing.
+- **Educational Videos**: Short videos on Indian gods, their mythology, and teachings.
+- **Dark/Light Mode**: Toggle between dark and light themes for an optimal viewing experience.
+- **Downloadable Content**: Users can download videos for offline viewing.
 
 ## Tech Stack 💻
 
