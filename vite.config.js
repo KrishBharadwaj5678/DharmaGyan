@@ -5,7 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server: {
-    host: '0.0.0.0', // This ensures the app listens on all network interfaces
-    port: process.env.PORT || 3000, // Uses the PORT environment variable or defaults to 3000
+    host: '0.0.0.0', 
+    port: process.env.PORT || 3000,
+    allowedHosts: ['dharmagyan.onrender.com'],  // Add your allowed host here
   },
 })
