@@ -36,6 +36,7 @@ const App = () => {
               src={video.image}
               alt={video.title}
               className={`w-full h-40 object-contain ${darkMode ? "bg-gray-700" : "bg-stone-100"} rounded-md`}
+              loading="lazy"
             />
             <h2 className="mt-2 text-center font-semibold">{video.title}</h2>
           </div>
