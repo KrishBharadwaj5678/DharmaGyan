@@ -7,6 +7,6 @@ export default defineConfig({
   server: {
     host: '0.0.0.0', 
     port: process.env.PORT || 3000,
-    allowedHosts: ['dharmagyan.onrender.com'],  // Add your allowed host here
+    allowedHosts: ['dharmagyan.onrender.com'], 
   },
 })
