@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { lazy, useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { FaMoon, FaSun } from "react-icons/fa";
 import meme from "./Data/index.json";
@@ -49,7 +49,7 @@ const App = () => {
         onClose={() => setSelectedVideo(null)}
         className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50"
       >
-        <div className={`${darkMode ? "bg-gray-800 text-white" : "bg-white text-black"} p-6 rounded-lg shadow-lg w-[700px] w-full`}>
+        <div className={`${darkMode ? "bg-gray-800 text-white" : "bg-white text-black"} p-6 rounded-lg shadow-lg w-[700px] w-full mx-3`}>
           {selectedVideo && (
             <>
               <h2 className="text-xl font-bold mb-4">{selectedVideo.title}</h2>
