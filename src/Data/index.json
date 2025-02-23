@@ -642,5 +642,61 @@
     "video": "/Videos2/अध्याय 2 श्लोक 67.mp4",
     "title": "अध्याय 2 श्लोक 67",
     "type": "contain"
+  },
+  {
+    "id": 93,
+    "image": "/Videos3/Mata Rani.png",
+    "video": "/Videos3/Mata Rani.mp4",
+    "title": "Mata Rani",
+    "type": "contain"
+  },
+  {
+    "id": 94,
+    "image": "/Videos3/धिक्कार है ऐसे व्यक्ति पर जो.png",
+    "video": "/Videos3/धिक्कार है ऐसे व्यक्ति पर जो.mp4",
+    "title": "धिक्कार है ऐसे व्यक्ति पर जो",
+    "type": "contain"
+  },
+  {
+    "id": 95,
+    "image": "/Videos3/Shreeman Narayan Narayan Hari Hari ✨.png",
+    "video": "/Videos3/Shreeman Narayan Narayan Hari Hari ✨.mp4",
+    "title": "Shreeman Narayan Narayan Hari Hari ✨",
+    "type": "contain"
+  },
+  {
+    "id": 96,
+    "image": "/Videos3/Natnagar Mohan Girdhari 💖.png",
+    "video": "/Videos3/Natnagar Mohan Girdhari 💖.mp4",
+    "title": "Natnagar Mohan Girdhari 💖",
+    "type": "contain"
+  },
+  {
+    "id": 97,
+    "image": "/Videos3/Just say radhe radhe and move on 🤌🏻.png",
+    "video": "/Videos3/Just say radhe radhe and move on 🤌🏻.mp4",
+    "title": "Just say radhe radhe and move on 🤌🏻",
+    "type": "contain"
+  },
+  {
+    "id": 98,
+    "image": "/Videos3/Shiva Tandav Stotram 🙏🏻🕉️.png",
+    "video": "/Videos3/Shiva Tandav Stotram 🙏🏻🕉️.mp4",
+    "title": "Shiva Tandav Stotram 🙏🏻🕉️",
+    "type": "contain"
+  },
+  {
+    "id": 99,
+    "image": "/Videos3/Ganesh wrote the mahabharata ❤️.png",
+    "video": "/Videos3/Ganesh wrote the mahabharata ❤️.mp4",
+    "title": "Ganesh wrote the mahabharata ❤️",
+    "type": "contain"
+  },
+  {
+    "id": 100,
+    "image": "/Videos3/Prabhu Shri Krishna Or Sudama Ji.png",
+    "video": "/Videos3/Prabhu Shri Krishna Or Sudama Ji.mp4",
+    "title": "Prabhu Shri Krishna Or Sudama Ji",
+    "type": "contain"
   }
 ]
