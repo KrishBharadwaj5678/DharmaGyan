@@ -29,7 +29,7 @@ const App = () => {
         {meme.map((video) => (
           <div
             key={video.id}
-            className={`${darkMode ? "bg-gray-800 text-white" : "bg-white text-black"} p-4 rounded-lg shadow-md cursor-pointer`}
+            className={`${darkMode ? "bg-gray-800 text-white" : "bg-white text-black"} p-4 hover:scale-105 duration-300 rounded-lg shadow-md cursor-pointer`}
             onClick={() => setSelectedVideo(video)}
           >
             <img
