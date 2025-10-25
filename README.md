@@ -28,29 +28,29 @@
 
 ## 🚀 Installation & Setup
 
-### 1️⃣ Clone Repo
+1. **Clone the repository** 
 
-```bash
-git clone https://github.com/KrishBharadwaj5678/DharmaGyan.git
-```
+    ```bash
+    git clone https://github.com/KrishBharadwaj5678/DharmaGyan.git
+    ```
 
-### 2️⃣ Enter Folder
+2. **Enter Folder**
 
-```bash
-cd DharmaGyan
-```
+    ```bash
+    cd DharmaGyan
+    ```
 
-### 3️⃣ Install Packages
+3. **Install Packages**
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
-### 4️⃣ Run App
+4. **Run App**
 
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 ---
 
@@ -58,38 +58,29 @@ npm run dev
 
 We welcome all contributions to make **DharmaGyan** even better! Follow the steps below to contribute:
 
-### 🪶 Fork the Repository
+1. 🪶 **Fork the Repository**
+   - Click the **Fork** button at the top-right corner of this repository to create your own copy.
 
-Click the **Fork** button at the top-right corner of this repository to create your own copy.
+2. 🌱 Create a New Branch
+   
+    ```bash
+    git checkout -b feature-name
+    ```
 
-### 🌱 Create a New Branch
+3. 🛠️ Make Your Changes
+   - Implement your desired updates or improvements to the project.
 
-Create a new branch for your feature or fix:
+4. 🧩 Commit Your Updates
 
-```bash
-git checkout -b feature-name
-```
+    ```bash
+    git commit -m "Added a new feature"
+    ```
 
-### 🛠️ Make Your Changes
+5. 🚀 Push Your Branch
 
-Implement your desired updates or improvements to the project.
+    ```bash
+    git push origin feature-name
+    ```
 
-### 🧩 Commit Your Updates
-
-Save your changes with a clear and descriptive commit message:
-
-```bash
-git commit -m "Added a new feature"
-```
-
-### 🚀 Push Your Branch
-
-Push your branch to your forked repository:
-
-```bash
-git push origin feature-name
-```
-
-### 💌 Create a Pull Request
-
-Open a **Pull Request (PR)** from your branch to the main repository.
+6. 💌 Create a Pull Request
+   - Open a **Pull Request (PR)** from your branch to the main repository.
