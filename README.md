@@ -28,25 +28,25 @@
 
 ## 🚀 Installation & Setup
 
-###  1) Clone Repo
+### 1️⃣ Clone Repo
 
 ```bash
 git clone https://github.com/your-username/DharmaGyan.git
 ```
 
-### 2) Enter Folder
+### 2️⃣ Enter Folder
 
 ```bash
 cd DharmaGyan
 ```
 
-### 3) Install Packages
+### 3️⃣ Install Packages
 
 ```bash
 npm install
 ```
 
-### 4) Run App
+### 4️⃣ Run App
 
 ```bash
 npm run dev
