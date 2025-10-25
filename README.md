@@ -31,7 +31,7 @@
 ### 1️⃣ Clone Repo
 
 ```bash
-git clone https://github.com/your-username/DharmaGyan.git
+git clone https://github.com/KrishBharadwaj5678/DharmaGyan.git
 ```
 
 ### 2️⃣ Enter Folder
