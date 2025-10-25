@@ -1,1 +1,1 @@
-# Sanatan
+# Dharma Gyan
