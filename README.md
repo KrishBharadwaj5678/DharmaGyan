@@ -90,6 +90,6 @@ Push your branch to your forked repository:
 git push origin feature-name
 ```
 
-### 💌 6️⃣ Create a Pull Request
+### 💌 Create a Pull Request
 
 Open a **Pull Request (PR)** from your branch to the main repository.
