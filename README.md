@@ -2,7 +2,7 @@
 
 **Dharma Gyan** is a spiritual video platform that brings together short and inspiring videos related to **Hindu Gods**. It aims to spread knowledge about Indian culture and spirituality through beautifully edited video clips.
 
----
+![DharmaGyanDemo](https://github.com/KrishBharadwaj5678/DharmaGyan/raw/main/DharmaGyanDemo.png)
 
 ## ✨ Features
 
@@ -19,10 +19,11 @@
 
 ## 🧰 Tech Stack
 
-| Technology            | Purpose                                         |
-| --------------------- | ----------------------------------------------- |
-| **⚛️ ReactJS**           | JavaScript library for building user interfaces |
-| **🎨 Tailwind CSS**      | Utility-first CSS framework for modern styling  |
+| Technology          | Purpose                                         |
+| ------------------- | ----------------------------------------------- |
+| ⚛️ **ReactJS**      | JavaScript library for building user interfaces |
+| 🎨 **Tailwind CSS** | Utility-first CSS framework for modern styling  |
+| 🎯 **React Icons**  | Provides popular icons for React applications   |
 
 ---
 
@@ -54,33 +55,12 @@
 
 ---
 
-## 🌟 Contribution
+## Contributing 🤝
 
-We welcome all contributions to make **DharmaGyan** even better! Follow the steps below to contribute:
+Want to contribute? Here's how:
 
-1. 🪶 **Fork the Repository**
-   - Click the **Fork** button at the top-right corner of this repository to create your own copy.
-
-2. 🌱 Create a New Branch
-   
-    ```bash
-    git checkout -b feature-name
-    ```
-
-3. 🛠️ Make Your Changes
-   - Implement your desired updates or improvements to the project.
-
-4. 🧩 Commit Your Updates
-
-    ```bash
-    git commit -m "Added a new feature"
-    ```
-
-5. 🚀 Push Your Branch
-
-    ```bash
-    git push origin feature-name
-    ```
-
-6. 💌 Create a Pull Request
-   - Open a **Pull Request (PR)** from your branch to the main repository.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
