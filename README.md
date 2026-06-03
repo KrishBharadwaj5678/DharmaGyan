@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 🕉️ Dharma Gyan
 
 **Dharma Gyan** is a spiritual video platform that brings together short and inspiring videos related to **Hindu Gods**. It aims to spread knowledge about Indian culture and spirituality through beautifully edited video clips.
