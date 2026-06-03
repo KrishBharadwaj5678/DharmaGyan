@@ -27,40 +27,29 @@
 
 ---
 
-## 🚀 Installation & Setup
+## 🚀 Installation
 
-1. **Clone the repository** 
 
-    ```bash
-    git clone https://github.com/KrishBharadwaj5678/DharmaGyan.git
-    ```
+### 1️⃣ **Clone the repository**
 
-2. **Enter Folder**
+```bash
+git clone https://github.com/KrishBharadwaj5678/DharmaGyan.git
+```
 
-    ```bash
-    cd DharmaGyan
-    ```
+### 2️⃣ **Enter Folder**
 
-3. **Install Packages**
+```bash
+cd DharmaGyan
+```
 
-    ```bash
-    npm install
-    ```
+### 3️⃣ **Install Packages**
 
-4. **Run App**
+```bash
+npm install
+```
 
-    ```bash
-    npm run dev
-    ```
+### 4️⃣ **Run App**
 
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+```bash
+npm run dev
+```
